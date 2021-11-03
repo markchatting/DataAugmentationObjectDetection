@@ -1,1 +1,1 @@
-
+These are the image files and prelabelled XML files that are needed to run the augmentation script. For each IMage file a corresponding XML file is needed.
