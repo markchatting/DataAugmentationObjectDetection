@@ -24,3 +24,5 @@ These scripts were borrowed/copied/inspired (whatever you want to call it) by ot
 https://github.com/asetkn/Tutorial-Image-and-Multiple-Bounding-Boxes-Augmentation-for-Deep-Learning-in-4-Steps
 
 https://github.com/aleju/imgaug
+
+FYI: There is an issue with this script in that it produces some annotation files with negative values which cannot be used for training. I am still working on rectifying these issues.
