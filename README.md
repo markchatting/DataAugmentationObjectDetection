@@ -25,4 +25,4 @@ https://github.com/asetkn/Tutorial-Image-and-Multiple-Bounding-Boxes-Augmentatio
 
 https://github.com/aleju/imgaug
 
-FYI: There is an issue with this script in that it produces some annotation files with negative values which cannot be used for training. I am still working on rectifying these issues.
+FYI: There is an issue with this script in that it produces some annotation files with negative values which cannot be used for training. I am still working on rectifying these issues and will update this repo in time.
